@@ -1,5 +1,5 @@
 
-const backendDomine = "https://mernecommerce-54.onrender.com";
+const backendDomine = "https://ecombackend-8t1m.onrender.com";
 
 const SummryApi = {
 
